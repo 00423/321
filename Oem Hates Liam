@@ -1,5 +1,6 @@
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -27,6 +28,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -54,6 +56,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -81,6 +84,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -108,6 +112,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -135,6 +140,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -162,6 +168,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -189,6 +196,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -216,6 +224,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -243,6 +252,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -270,6 +280,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -297,6 +308,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -324,6 +336,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -351,6 +364,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -378,6 +392,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -405,6 +420,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -432,6 +448,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -459,6 +476,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -486,6 +504,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -513,6 +532,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -540,6 +560,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -567,6 +588,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -594,6 +616,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
+<off>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -621,33 +644,7 @@ git clone https://github.com/ooni/probe
 <^> $W
 Press: ALT+F4
 Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
 <off>
-<^> M.A.D
-mkfs.ext4.dev/sda3. 2a
->file
-mkfs.ext4.dev/sda3. 2b
->file
-<off>
-mkfs.ext4.dev/sda3. 2c
->file
-mkfs.ext4.dev/sda3. 2d
->file
-<off>
-mkfs.ext4.dev/sda0
->file
-mkfs.ext4.dev/sda1
->file
-mkfs.ext4.dev/sda2
-<off>
->file
-git clone https://github.com/ooni/probe
->file
-<^> $W
-Press: ALT+F4
-Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
