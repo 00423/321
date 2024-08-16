@@ -4,6 +4,16 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+
+debootstrap
+sudo get upgrade
+flash install system
+SHIFT+7
+DOWN
+0 21
+Right 
+5.27
+EXE
 <off>
 <^> M.A.D
 mkfs.ext4.dev/sda3. 2a
